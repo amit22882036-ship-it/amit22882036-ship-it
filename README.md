@@ -28,6 +28,17 @@ I focus on developing end-to-end products that solve complex challenges through 
 <table border="0">
   <tr>
     <td width="300">
+      <a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4"><img src="agent-control-center-demo.webp" width="250" alt="Watch the AI Agent Control Center demo"></a>
+    </td>
+    <td>
+      <h4><a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">AI Agent Control Center</a></h4>
+      <p>I built a Windows desktop app for coordinating coding agents. A lead agent can delegate tasks to helpers that work in parallel in separate Git worktrees. A live map shows who is working and who needs an answer. In an end-to-end Codex run, the lead accepted both helpers’ results after integration checks passed.</p>
+      <p><i>Electron, React, Python, FastAPI, SQLite</i></p>
+      <p><a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4">Watch the 45-second demo</a> · <a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">View source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300">
       <img src="argiAdvisorLogo.png" width="250" alt="Agri-Advisor Logo">
     </td>
     <td>
@@ -66,7 +77,7 @@ I focus on developing end-to-end products that solve complex challenges through 
 ### 📫 Let's Connect!
 * 📧 **Email:** amit22882036@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/amit-gertner
-* 🏗️ **Portfolio:** https://amit22882036-ship-it.github.io/amitProtfollio/
+* 🏗️ **Portfolio:** https://amit22882036-ship-it.github.io/Amit-Portfolio/
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="Profile Views">
