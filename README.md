@@ -27,34 +27,36 @@ I focus on developing end-to-end products that solve complex challenges through 
 
 <table border="0">
   <tr>
-    <td width="300" align="center">
-      <a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4"><img src="ai-agent-control-center-logo.png" width="140" alt="AI Agent Control Center logo – watch the demo"></a>
+    <td width="250" align="center" valign="middle">
+      <a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4"><img src="ai-agent-control-center-logo.png" width="94" alt="AI Agent Control Center demo"></a>
     </td>
-    <td>
+    <td valign="middle">
       <h4><a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">AI Agent Control Center</a></h4>
-      <p>I built a Windows desktop app for coordinating coding agents. A lead agent can delegate tasks to helpers that work in parallel in separate Git worktrees. A live map shows who is working and who needs an answer. In an end-to-end Codex run, the lead accepted both helpers’ results after integration checks passed.</p>
-      <p><i>Electron, React, Python, FastAPI, SQLite</i></p>
-      <p><a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4">Watch the 45-second demo</a> · <a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">View source</a></p>
+      <p>Delegate coding tasks to agents working in separate Git worktrees and follow their progress on a live map. In a Codex run, the lead agent integrated work from two helpers.</p>
+      <p><i>Electron, React, FastAPI, SQLite</i></p>
+      <p><a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4">Watch demo (45s)</a> · <a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">View source</a></p>
     </td>
   </tr>
   <tr>
-    <td width="300">
-      <img src="argiAdvisorLogo.png" width="250" alt="Agri-Advisor Logo">
+    <td width="250" align="center" valign="middle">
+      <a href="https://argiagent.onrender.com"><img src="argiAdvisorLogo.png" width="250" alt="Agri-Advisor Pro demo"></a>
     </td>
-    <td>
-      <h4><b>Agri-Advisor Pro</b></h4>
-      <p>An autonomous AI agent for Israeli farmers built on <b>ReAct architecture</b>. It utilizes a <b>RAG pipeline</b> with over 6,300 text chunks to provide real-time, data-driven agricultural advice.</p>
-      <p><i>Tech: FastAPI, LangChain, Pinecone, OpenAI Tools</i></p>
+    <td valign="middle">
+      <h4><a href="https://github.com/amit22882036-ship-it/ArgiAgent">Agri-Advisor Pro</a></h4>
+      <p>Ask farming questions in Hebrew and follow up in the same conversation. The assistant retrieves guidance from agricultural manuals and uses local weather history to put each answer in context.</p>
+      <p><i>FastAPI, LangChain, Pinecone, Supabase</i></p>
+      <p><a href="https://argiagent.onrender.com">Open live demo</a> · <a href="https://github.com/amit22882036-ship-it/ArgiAgent">View source</a></p>
     </td>
   </tr>
   <tr>
-    <td width="300">
-      <img src="checkInToRealityLogo.png" width="250" alt="Check-in to Reality Logo">
+    <td width="250" align="center" valign="middle">
+      <a href="https://checkin-to-reality.onrender.com"><img src="checkInToRealityLogo.png" width="250" alt="Check-in To Reality demo"></a>
     </td>
-    <td>
-      <h4><b>Check-in To Reality</b></h4>
-      <p>A Big Data platform analyzing the "Reality Gap" in the hotel industry. It processes <b>250,000+ records</b> using <b>PySpark</b> and <b>BERT Sentiment Analysis</b> to identify overrated properties.</p>
-      <p><i>Tech: PySpark, Databricks, BERT, Flask, PostgreSQL</i></p>
+    <td valign="middle">
+      <h4><a href="https://github.com/amit22882036-ship-it/checkin-to-reality">Check-in To Reality</a></h4>
+      <p>Compare what hotels advertise with what guests report. A PySpark pipeline joins listings, reviews and nearby places, and an interactive map lets travelers explore the differences.</p>
+      <p><i>PySpark, Databricks, Flask, PostgreSQL</i></p>
+      <p><a href="https://checkin-to-reality.onrender.com">Open live demo</a> · <a href="https://github.com/amit22882036-ship-it/checkin-to-reality">View source</a></p>
     </td>
   </tr>
 </table>
