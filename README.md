@@ -27,8 +27,8 @@ I focus on developing end-to-end products that solve complex challenges through 
 
 <table border="0">
   <tr>
-    <td width="300">
-      <a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4"><img src="agent-control-center-demo.webp" width="250" alt="Watch the AI Agent Control Center demo"></a>
+    <td width="300" align="center">
+      <a href="https://amit22882036-ship-it.github.io/Amit-Portfolio/images/projects/ai-agent-control-center/AI-Agent-Control-Center-16x9.mp4"><img src="ai-agent-control-center-logo.png" width="140" alt="AI Agent Control Center logo – watch the demo"></a>
     </td>
     <td>
       <h4><a href="https://github.com/amit22882036-ship-it/ai-agent-control-center">AI Agent Control Center</a></h4>
